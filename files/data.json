@@ -1,0 +1,103 @@
+{
+ "name": " _-_-_- * thought-alive:lit-review ",
+ "children": [
+
+  {
+   "name": "performance / non-objective-art",
+   "children": [
+    {"name": "(abc · video), Ann Hamilton - 1994 - 1999", "value": 2105},
+    {"name": "becoming elemental, Mariana Marcassa - 2017", "value": 1316},
+    {"name": "Proposiçōes (Corpo Coletivo), Lygia Clark - 1960 - 1970", "value": 3151},
+    {"name": "Enmarcados, Felipe Ehrenberg - 1974", "value": 3770},
+    {"name": "Patente de taco, Maris Bustamante - 1979", "value": 2435},
+    {"name": "Transformance, No-grupo - 1977", "value": 4839},
+    {"name": "An Anthology of Chance Operations, Fluxus Classics - 1963", "value": 1756},
+    {"name": "Variations V, Merce Cunningham and John Cage - 1966", "value": 4268},
+    {"name": "Magnet TV, Nam June Paik - 1965", "value": 1821}
+       ]
+  },
+  {
+   "name": "visual-poetry",
+   "children": [
+    {"name": "1958 - Poema sem título, Haroldo de Campos", "value": 2105},
+    {"name": "1913 - 1916 / Caligrammes, Guillaume Apollinaire", "value": 1316},
+    {"name": "1918 - Dada manifesto, Tristan Tzara", "value": 3151},
+    {"name": "2012 - Stochastic Poetics, Johanna Drucker", "value": 3770},
+    {"name": "1920 - Li-Po y otros poemas, José Juan Tablada", "value": 2435},
+    {"name": "1967 - 70, CARNIVAL, Steve McCaffery", "value": 4839},
+    {"name": "1968 - Transparência, Neide Sá", "value": 1756},
+    {"name": "1989 - Poeta chama poeta, Ana Hatherly", "value": 4268},
+    {"name": "1923 - 25 - 5 metros de poemas, Carlos Oquendo de Amat", "value": 1821}
+       ]
+  },
+
+    {
+   "name": "net.art",
+   "children": [
+    {"name": "netart_latino database, Brian Mackern - 1999 - 2004", "value": 2105},
+    {"name": "ÄDA 'WEB, John Bortwick and Benjamin Weil - 1994 - 1998", "value": 1316},
+    {"name": "UBICUO, Talleres Telemúsica, Colectivo Radiador - 2011", "value": 3151},
+    {"name": "REABRACADABRA, Eduardo Kac - 1985", "value": 3770},
+    {"name": "pixeljam.glitch.me, Olivia Jack - 2020", "value": 5833}
+   ]
+  },
+
+    {
+   "name": "algorithmic-art",
+   "children": [
+    {"name": "_ s. XVII - Kolattam, Algorithmic Dance, India", "value": 2105},
+    {"name": "1922-32 - Ursonate, Kurt Schwitters", "value": 1316},
+    {"name": "2008 - New Interfaces for Textual Expression, Allison Parrish", "value": 3151},
+    {"name": "2012, Gravity, Jörg Piringer", "value": 3770},
+    {"name": "2008 - Process 14, Casey Reas", "value": 4141},
+{"name": "1987 - Structure de Quadrilatéres, Vera Molnar", "value": 781},    {"name": "2014 - GLASS, Antonio Roberts", "value": 1756},
+    {"name": "2015, PLATFORM, Holly Herndon", "value": 4268},
+    {"name": "1993 - 1999 - The 5 Reactive Books, John Maeda", "value": 1821},
+    {"name": "1973-8 - The Expanding Universe, Laurie Spiegel", "value": 5833},
+    {"name": "2011 - Green Cloud (the drawing), Roman Verostko", "value": 843},
+      {"name": "1960 - Hommage à Paul Klee, Frieder Nake", "value": 5130},
+            {"name": "1976 - La máquina estética, Manuel Felguérez", "value": 5130},
+          {"name": "1969 - band-structure, Manfred Mohr", "value": 1616}
+   ]
+  },
+
+
+  {
+   "name": "code-as-expression",
+   "children": [
+
+    {"name": "1958 - LISP, John McCarthy & Steve Russell", "value": 1027},
+    
+    {"name": "1990 - mezangelle, Mez Breeze", "value": 3891},
+    
+    {"name": "1997 - Electropoetics, Joel Felix", "value": 891},
+    {"name": "2012 - Hermeneutic Algorithms, Juan Manuel Escalante", "value": 2893},
+    {"name": "2000 - Perl Poetry, Best of Show, Angie Winterbottom", "value": 5103},
+    {"name": "2001 - * concept of codework, Alan Sondheim", "value": 3677},
+        {"name": "2012 - code {poems}, Ishac Bertan", "value": 2105},
+    {"name": "1922-32 - Ursonate, Kurt Schwitters", "value": 1316},
+    {"name": "2008 - New Interfaces for Textual Expression, Allison Parrish", "value": 3151},
+    {"name": "2012, Gravity, Jörg Piringer", "value": 3770},
+    
+    {
+     "name": "live-coding",
+     "children": [
+      {"name": "2004 - ManifestoDraft, TOPLAP", "value": 593},
+      {"name": "1985 - live coding at STEIM Amsterdam, Ron Kuivila", "value": 330},
+      {"name": "Tango for Us Two/Too, ICLC 2017, Joana Chicau - 2017", "value": 287},
+      {"name": "2015 - #code #poetry #250115, Shelly Knotts", "value": 277},
+      {"name": "Penelope, Weaving Tidal patterns on the TC-1, Alex Mclean, 2018", "value": 292},
+      {"name": "2015 - Improvisation for Pianist (Disklavier) and Live Coder, Juan A. Romero & Anne Veinberg", "value": 595},
+      {"name": "2015 - To code a dadaist poem, Sean Cotterill", "value": 594},
+      {"name": "groove 11 - Renick Bell, 2020", "value": 460},
+      {"name": "It's only MIDI, Joanne Armitage - 2017", "value": 603},
+      {"name": "Hydra, live coding software, Olivia Jack - 2018", "value": 625},
+      {"name": "Marije Baalman - Wezen – Gewording, 2013", "value": 748}
+     ]
+    },
+    
+   {"name": "2011 - Esoteric.Codes, Daniel Temkin", "value": 933}
+   ]
+  }
+ ]
+}

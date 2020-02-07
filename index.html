@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>thought-alive:lit-review</title>
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+<body>
+
+<style>
+
+.observablehq--inspect { visibility: hidden; }
+
+body {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, #fff, #b6cbd1, #e8cfe2);
+  background-size: 200% 100%;
+  -webkit-animation: Gradient 100s ease infinite;
+  -moz-animation: Gradient 100s ease infinite;
+  animation: Gradient 100s ease infinite;
+}
+
+@-webkit-keyframes Gradient {
+  0% {
+    background-position: 0% 50%
+  }
+  50% {
+    background-position: 100% 50%
+  }
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+@-moz-keyframes Gradient {
+  0% {
+    background-position: 0% 50%
+  }
+  50% {
+    background-position: 100% 50%
+  }
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+@keyframes Gradient {
+  0% {
+    background-position: 0% 50%
+  }
+  50% {
+    background-position: 100% 50%
+  }
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+</style>
+
+<script type="module">
+
+import define from "./index.js";
+
+import {Runtime, Library, Inspector} from "./runtime.js";
+
+const runtime = new Runtime();
+const main = runtime.module(define, Inspector.into(document.body));
+
+</script>
