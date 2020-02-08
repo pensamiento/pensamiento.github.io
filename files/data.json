@@ -3,42 +3,43 @@
  "children": [
 
   {
-   "name": "performance / non-objective-art",
+   "name": "performance / arte no objetual",
    "children": [
-    {"name": "(abc · video), Ann Hamilton - 1994 - 1999", "value": 2105},
-    {"name": "becoming elemental, Mariana Marcassa - 2017", "value": 1316},
-    {"name": "Proposiçōes (Corpo Coletivo), Lygia Clark - 1960 - 1970", "value": 3151},
-    {"name": "Enmarcados, Felipe Ehrenberg - 1974", "value": 3770},
-    {"name": "Patente de taco, Maris Bustamante - 1979", "value": 2435},
-    {"name": "Transformance, No-grupo - 1977", "value": 4839},
-    {"name": "An Anthology of Chance Operations, Fluxus Classics - 1963", "value": 1756},
-    {"name": "Variations V, Merce Cunningham and John Cage - 1966", "value": 4268},
-    {"name": "Magnet TV, Nam June Paik - 1965", "value": 1821}
+    {"name": "i. (abc · video), Ann Hamilton - 1994 - 1999", "value": 2105},
+    {"name": "j. becoming elemental, Mariana Marcassa - 2017", "value": 1316},
+    {"name": "b. Proposiçōes (Corpo Coletivo), Lygia Clark - 1960 - 1970", "value": 3151},
+    {"name": "e. Enmarcados, Felipe Ehrenberg - 1974", "value": 3770},
+    {"name": "g. Patente de taco, Maris Bustamante - 1979", "value": 2435},
+        {"name": "f. * concept of 'transformance' by Grupo Peyote - 1977", "value": 4839},
+    {"name": "h. La muerte del performance, No-grupo - 1983", "value": 4839},
+    {"name": "a. An Anthology of Chance Operations, Fluxus - La Monte Young - 1963", "value": 1756},
+    {"name": "d. Variations V, Merce Cunningham and John Cage - 1966", "value": 4268},
+    {"name": "c. Magnet TV, Nam June Paik - 1965", "value": 1821}
        ]
   },
   {
    "name": "visual-poetry",
    "children": [
-    {"name": "1958 - Poema sem título, Haroldo de Campos", "value": 2105},
-    {"name": "1913 - 1916 / Caligrammes, Guillaume Apollinaire", "value": 1316},
-    {"name": "1918 - Dada manifesto, Tristan Tzara", "value": 3151},
-    {"name": "2012 - Stochastic Poetics, Johanna Drucker", "value": 3770},
-    {"name": "1920 - Li-Po y otros poemas, José Juan Tablada", "value": 2435},
-    {"name": "1967 - 70, CARNIVAL, Steve McCaffery", "value": 4839},
-    {"name": "1968 - Transparência, Neide Sá", "value": 1756},
-    {"name": "1989 - Poeta chama poeta, Ana Hatherly", "value": 4268},
-    {"name": "1923 - 25 - 5 metros de poemas, Carlos Oquendo de Amat", "value": 1821}
+    {"name": "e. Poema sem título, Haroldo de Campos - 1958", "value": 2105},
+    {"name": " a. Caligrammes, Guillaume Apollinaire - 1913 - 1916", "value": 1316},
+    {"name": "b. Dada manifesto, Tristan Tzara - 1918", "value": 3151},
+    {"name": "i. Stochastic Poetics, Johanna Drucker - 2012", "value": 3770},
+    {"name": "c. Li-Po y otros poemas, José Juan Tablada 1920", "value": 2435},
+    {"name": "f. CARNIVAL, Steve McCaffery - 1967 - 70", "value": 4839},
+    {"name": "g. Transparência, Neide Sá - 1968", "value": 1756},
+    {"name": "h. Poeta chama poeta, Ana Hatherly - 1989", "value": 4268},
+    {"name": "d. 5 metros de poemas, Carlos Oquendo de Amat - 1923 - 25", "value": 1821}
        ]
   },
 
     {
    "name": "net.art",
    "children": [
-    {"name": "netart_latino database, Brian Mackern - 1999 - 2004", "value": 2105},
-    {"name": "ÄDA 'WEB, John Bortwick and Benjamin Weil - 1994 - 1998", "value": 1316},
-    {"name": "UBICUO, Talleres Telemúsica, Colectivo Radiador - 2011", "value": 3151},
-    {"name": "REABRACADABRA, Eduardo Kac - 1985", "value": 3770},
-    {"name": "pixeljam.glitch.me, Olivia Jack - 2020", "value": 5833}
+    {"name": "c. netart_latino database, Brian Mackern - 1999 - 2004", "value": 2105},
+    {"name": "b. ÄDA 'WEB, John Bortwick and Benjamin Weil - 1994 - 1998", "value": 1316},
+    {"name": "d. UBICUO, Talleres Telemúsica, Colectivo Radiador - 2011", "value": 3151},
+    {"name": "a. REABRACADABRA, Eduardo Kac - 1985", "value": 3770},
+    {"name": "e. pixeljam.glitch.me, Olivia Jack - 2020", "value": 5833}
    ]
   },
 
@@ -73,7 +74,7 @@
     {"name": "1997 - Electropoetics, Joel Felix", "value": 891},
     {"name": "2012 - Hermeneutic Algorithms, Juan Manuel Escalante", "value": 2893},
     {"name": "2000 - Perl Poetry, Best of Show, Angie Winterbottom", "value": 5103},
-    {"name": "2001 - * concept of codework, Alan Sondheim", "value": 3677},
+    {"name": "2001 - * concept of 'codework', Alan Sondheim", "value": 3677},
         {"name": "2012 - code {poems}, Ishac Bertan", "value": 2105},
     {"name": "1922-32 - Ursonate, Kurt Schwitters", "value": 1316},
     {"name": "2008 - New Interfaces for Textual Expression, Allison Parrish", "value": 3151},
