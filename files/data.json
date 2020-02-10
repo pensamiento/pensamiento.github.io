@@ -48,17 +48,16 @@
    "children": [
     {"name": "_ s. XVII - Kolattam, Algorithmic Dance, India", "value": 2105},
     {"name": "1922-32 - Ursonate, Kurt Schwitters", "value": 1316},
-    {"name": "2008 - New Interfaces for Textual Expression, Allison Parrish", "value": 3151},
-    {"name": "2012, Gravity, Jörg Piringer", "value": 3770},
     {"name": "2008 - Process 14, Casey Reas", "value": 4141},
 {"name": "1987 - Structure de Quadrilatéres, Vera Molnar", "value": 781},    {"name": "2014 - GLASS, Antonio Roberts", "value": 1756},
     {"name": "2015, PLATFORM, Holly Herndon", "value": 4268},
     {"name": "1993 - 1999 - The 5 Reactive Books, John Maeda", "value": 1821},
     {"name": "1973-8 - The Expanding Universe, Laurie Spiegel", "value": 5833},
     {"name": "2011 - Green Cloud (the drawing), Roman Verostko", "value": 843},
-      {"name": "1960 - Hommage à Paul Klee, Frieder Nake", "value": 5130},
-            {"name": "1976 - La máquina estética, Manuel Felguérez", "value": 5130},
-          {"name": "1969 - band-structure, Manfred Mohr", "value": 1616}
+    {"name": "1960 - Hommage à Paul Klee, Frieder Nake", "value": 5130},
+    {"name": "1976 - La máquina estética, Manuel Felguérez", "value": 5130},
+    {"name": "1300 - Xicalcoliuhqui, Mitla, Oaxaca", "value": 5130},
+    {"name": "1969 - band-structure, Manfred Mohr", "value": 1616}
    ]
   },
 
