@@ -14,9 +14,9 @@ md``
   const svg = d3.create("svg")
       .style("max-width", "95%")
       .style("height", "auto")
-      .style("font", "14px Mikado")
+      .style("font", "15px Mikado")
       .style("margin", "0px")
-      .style("transform", "translate(3%, 5%)")
+      .style("transform", "translate(2%, 0%)")
       .attr("fill", "black");
 
   const link = svg.append("g")
